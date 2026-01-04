@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --brown-primary: #6F4E37;
+    --brown-secondary: #A67C52;
+    --brown-bg: #F5F1EC;
+    --brown-text: #3E2723;
+}
