@@ -9,7 +9,7 @@
 
     <div class="bg-white rounded-xl shadow p-6">
         <p class="mb-4 text-gray-700">
-            Selamat datang, <strong>{{ auth()->user()->name }}</strong> 👋
+            Selamat datang, <strong>{{ auth()->user()->name }}</strong>!
         </p>
 
         <a href="{{ route('articles.index') }}"
